@@ -1,0 +1,15 @@
+psyop-countermeasure-journal/
+├── README.md
+├── LICENSE
+├── printable/
+│   ├── field-edition-A5-double-sided.pdf          (coming next message if you want it)
+│   ├── full-365-day-A5-booklet.pdf
+│   └── cover-orange-gold.png
+├── digital/
+│   ├── notion-template-duplicate-link.txt
+│   └── obsidian-vault-template.zip
+├── src/
+│   ├── daily-page-template.md                    (markdown version)
+│   ├── 50-psyop-templates.json                  (for apps/devs)
+│   └── master-list.txt
+└── CONTRIBUTING.md
