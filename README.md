@@ -47,3 +47,20 @@ Stay dangerous.
 Stay free.
 
 2025–∞
+
+
+
+# Dehumanization in Propaganda – Historical Image Archive
+Public-domain and fair-use examples showing the single oldest trick in psychological warfare: removing the human face.
+
+Every image in the numbered folders is a real historical artifact that was used to make mass murder feel morally acceptable.
+
+The COUNTEREXAMPLES folder contains the only known antidote: calm, direct, human portraits with eye contact.
+
+This archive exists for one reason:  
+So Day 10, Day 20, Day 30… of the PsyOp Countermeasure Journal can hit like a sledgehammer after 9 straight days of dissecting how they turn humans into symbols.
+
+All images are public domain or documented fair-use for criticism/education.  
+Use, share, print, burn into retinas.
+
+See also: https://github.com/yourname/psyop-countermeasure-journal
